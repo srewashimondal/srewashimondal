@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hey there, I'm Srewashi! 👋
 
-<!--
-**srewashimondal/srewashimondal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Rising Computer Science senior  
+- 💻 Aspiring Software Engineer 
+- 🚀 Passionate about building scalable, accessible, and impactful technology  
+- 🤝 I enjoy spending quality time with family and friends outside of tech  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+**🧠 Programming Languages:**  
+Python, C++, C#, Java, JavaScript, TypeScript, SQL  
+
+**🧰 Libraries & Frameworks:**  
+NumPy, Pandas, Keras, PyTorch, Scikit-Learn, EasyOCR, Streamlit, Flask, React, GenAI  
+
+**🛠️ Technologies & Tools:**  
+Git/GitHub, Firebase, Supabase, PostgreSQL, MySQL, SQLite, Node.js, AWS, NPM, Bootstrap, Visual Studio, Postman, REST APIs  
+
+---
+
+### 💡 Interests
+
+🎯 Building end-to-end products at hackathons  
+🌐 Exploring the intersection of AI and real-world problem solving  
+📚 Mentoring peers and leading community tech initiatives  
+🌱 Constantly learning and growing through fellowships, internships, and challenges  
+
+---
+
+
