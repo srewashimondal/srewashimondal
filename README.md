@@ -1,4 +1,4 @@
-### Hey there, I'm Srewashi! 👋
+### Hi! I'm Srewashi! 👋
 
 - 🎓 Rising Computer Science senior  
 - 💻 Aspiring Software Engineer 
