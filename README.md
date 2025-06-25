@@ -2,6 +2,7 @@
 
 - 🎓 Rising Computer Science senior  
 - 💻 Aspiring Software Engineer 
+- 📋 Currently a Site Reliability Engineer Intern @ Meta x MLH
 - 🚀 Passionate about building scalable, accessible, and impactful technology  
 - 🤝 I enjoy spending quality time with family and friends outside of tech  
 
