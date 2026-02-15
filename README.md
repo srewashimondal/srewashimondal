@@ -1,6 +1,6 @@
 ### Hi! I'm Srewashi! 👋
 
-- 🎓 Rising Computer Science senior  
+- 🎓 Computer Science senior  
 - 💻 Aspiring Software Engineer 
 - 📋 Currently a Production Engineer Intern @ Meta x MLH
 - 🚀 Passionate about building scalable, accessible, and impactful technology  
