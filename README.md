@@ -2,7 +2,7 @@
 
 - 🎓 Computer Science senior  
 - 💻 Aspiring Software Engineer 
-- 📋 Currently a Production Engineer Intern @ Meta x MLH
+- 📋 Previously a Production Engineer Fellow @ Meta x MLH
 - 🚀 Passionate about building scalable, accessible, and impactful technology  
 - 🤝 I enjoy spending quality time with family and friends outside of tech  
 
