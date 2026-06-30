@@ -1,6 +1,6 @@
 ### Hi! I'm Srewashi! 👋
 
-- 🎓 Computer Science senior  
+- 🎓 Recent graduate of The City College of New York, where I earned my B.S. in Computer Science from The Grove School of Engineering in Spring 2026.
 - 💻 Aspiring Software Engineer 
 - 📋 Previously a Production Engineer Fellow @ Meta x MLH
 - 🚀 Passionate about building scalable, accessible, and impactful technology  
