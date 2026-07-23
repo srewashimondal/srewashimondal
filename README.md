@@ -23,7 +23,7 @@ Git/GitHub, Firebase, Supabase, PostgreSQL, MySQL, SQLite, Node.js, AWS, NPM, Bo
 
 ### 💡 Interests
 
-🎯 Building end-to-end products at hackathons  
+🎯 Building end-to-end products at hackathons as well as personal projects 
 🌐 Exploring the intersection of AI and real-world problem solving  
 📚 Mentoring peers and leading community tech initiatives  
 🌱 Constantly learning and growing through fellowships, internships, and challenges  
