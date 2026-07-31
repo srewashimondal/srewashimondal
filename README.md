@@ -6,6 +6,8 @@
 - 🚀 Passionate about building scalable, accessible, and impactful technology  
 - 🤝 I enjoy spending quality time with family and friends outside of tech  
 
+During my NASA research internship at the BCC Geospatial Center, I use artificial intelligence and satellite imagery to study land-cover patterns in cities such as Seattle and Austin. I work with the Prithvi Earth observation model, QGIS, Python, and machine learning methods to classify water, vegetation, urban areas, and bare soil. I also create training and testing datasets, conduct accuracy assessments, automate parts of the workflow, and compare the original and enhanced versions of the Prithvi model. This experience continues to strengthen my research, problem-solving, and data analysis skills while showing me how technology can support environmental and urban studies.
+
 ---
 
 ### 💻 Tech Stack
