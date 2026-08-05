@@ -32,4 +32,6 @@ Git/GitHub, Firebase, Supabase, PostgreSQL, MySQL, SQLite, Node.js, AWS, NPM, Bo
 
 ---
 
+In August 2026, I achieved the Data Fundamentals Certificate and Badge by IBMSkillsBuild. The link tot he badge is: https://www.credly.com/badges/b1162e4f-82e4-478d-8d49-4befa425809d. This certification taught data analytics concepts, methodologies and applications of data science, and the tools and programming languages used in the data ecosystem.
+
 
