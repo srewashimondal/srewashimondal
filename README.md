@@ -28,7 +28,7 @@
 
 🎓 <b>B.S. in Computer Science</b><br>
 The City College of New York<br>
-Grove School of Engineering — <b>2022–2026</b>
+Grove School of Engineering - <b>2022–2026</b>
 
 </td>
 
@@ -104,7 +104,7 @@ Previously, I completed the **Meta x MLH Production Engineering Fellowship**, wh
 
 <div align="center">
 
-<table width="90%">
+<table width="100%">
 <tr>
 
 <td width="25%" valign="top">
