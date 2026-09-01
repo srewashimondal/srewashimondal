@@ -20,17 +20,49 @@
 
 ## 👩‍💻 About Me
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%">
+<td width="370">
 
-🎓 **B.S. in Computer Science**  
-The City College of New York  
-Grove School of Engineering — **2022-2026**
+🎓 <b>B.S. in Computer Science</b><br>
+The City College of New York<br>
+Grove School of Engineering — <b>2022–2026</b>
 
 </td>
 
-<td width="50%">
+<td width="370">
+
+💼 <b>Career Interests</b><br>
+Software Engineering<br>
+Machine Learning / AI<br>
+Data Analytics
+
+</td>
+</tr>
+
+<tr>
+<td width="370">
+
+🚀 <b>Previous Experience</b><br>
+Meta x MLH Production Engineering Fellow<br>
+Cornell Tech AI Studio Fellow
+
+</td>
+
+<td width="370">
+
+🛰️ <b>Current Research</b><br>
+AI + Satellite Imagery<br>
+Geospatial Machine Learning<br>
+Urban Land-Cover Analysis
+
+</td>
+</tr>
+</table>
+
+</div>
 
 💼 **Career Interests**  
 Software Engineering  
