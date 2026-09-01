@@ -102,9 +102,14 @@ Previously, I completed the **Meta x MLH Production Engineering Fellowship**, wh
 
 ## 🛠️ Tech Stack
 
-<table>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<table width="90%">
 <tr>
-<td valign="top" width="25%">
+
+<td width="25%" valign="top">
 
 ### 💻 Languages
 
@@ -118,7 +123,7 @@ Previously, I completed the **Meta x MLH Production Engineering Fellowship**, wh
 
 </td>
 
-<td valign="top" width="25%">
+<td width="25%" valign="top">
 
 ### 🤖 ML & Data
 
@@ -131,7 +136,7 @@ Previously, I completed the **Meta x MLH Production Engineering Fellowship**, wh
 
 </td>
 
-<td valign="top" width="25%">
+<td width="25%" valign="top">
 
 ### 🌐 Development
 
@@ -144,7 +149,7 @@ Previously, I completed the **Meta x MLH Production Engineering Fellowship**, wh
 
 </td>
 
-<td valign="top" width="25%">
+<td width="25%" valign="top">
 
 ### ⚙️ Tools
 
@@ -160,9 +165,11 @@ Previously, I completed the **Meta x MLH Production Engineering Fellowship**, wh
 - QGIS
 
 </td>
+
 </tr>
 </table>
 
+</div>
 ---
 
 ## 🚀 Featured Work
