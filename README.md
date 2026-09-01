@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/srewashi-mondal/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:srewashimondal@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://www.credly.com/badges/b1162e4f-82e4-478d-8d49-4befa425809d">
@@ -26,7 +26,7 @@
 
 🎓 **B.S. in Computer Science**  
 The City College of New York  
-Grove School of Engineering — **2026**
+Grove School of Engineering — **2022-2026**
 
 </td>
 
