@@ -102,8 +102,6 @@ Previously, I completed the **Meta x MLH Production Engineering Fellowship**, wh
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 <div align="center">
 
 <table width="90%">
