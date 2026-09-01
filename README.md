@@ -1,37 +1,232 @@
-### Hi! I'm Srewashi! 👋
+<h1 align="center">Hi, I'm Srewashi 👋</h1>
 
-- 🎓 Recent graduate of The City College of New York, where I earned my B.S. in Computer Science from The Grove School of Engineering in Spring 2026 semester
-- 💻 Aspiring Software Engineer 
-- 📋 Previously a Production Engineer Fellow @ Meta x MLH, AI Studio Fellow @ Cornell Tech, CTP Fellow
-- 🚀 Passionate about building scalable, accessible, and impactful technology  
-- 🤝 I enjoy spending quality time with family and friends outside of tech  
+<p align="center">
+  <b>Computer Science Graduate | Software Engineering | Machine Learning | Data Analytics</b>
+</p>
 
-During my NASA research internship at the BCC Geospatial Center, I use artificial intelligence and satellite imagery to study land-cover patterns in cities. This experience continues to strengthen my research, problem-solving, and data analysis skills while showing me how technology can support environmental and urban studies.
-
----
-
-### 💻 Tech Stack
-
-**🧠 Programming Languages:**  
-Python, C++, C#, Java, JavaScript, TypeScript, SQL  
-
-**🧰 Libraries & Frameworks:**  
-NumPy, Pandas, Keras, PyTorch, Scikit-Learn, EasyOCR, Streamlit, Flask, React, GenAI  
-
-**🛠️ Technologies & Tools:**  
-Git/GitHub, Firebase, Supabase, PostgreSQL, MySQL, SQLite, Node.js, AWS, NPM, Bootstrap, Visual Studio, Postman, REST APIs  
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.credly.com/badges/b1162e4f-82e4-478d-8d49-4befa425809d">
+    <img src="https://img.shields.io/badge/IBM-Data%20Fundamentals-052FAD?style=for-the-badge&logo=ibm">
+  </a>
+</p>
 
 ---
 
-### 💡 Interests
+## 👩‍💻 About Me
 
-🎯 Building end-to-end products at hackathons as well as personal projects 
-🌐 Exploring the intersection of AI and real-world problem solving  
-📚 Mentoring peers and leading community tech initiatives  
-🌱 Constantly learning and growing through fellowships, internships, and challenges  
+<table>
+<tr>
+<td width="50%">
+
+🎓 **B.S. in Computer Science**  
+The City College of New York  
+Grove School of Engineering — **2026**
+
+</td>
+
+<td width="50%">
+
+💼 **Career Interests**  
+Software Engineering  
+Machine Learning / AI  
+Data Analytics
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+🚀 **Previous Experience**  
+Meta x MLH Production Engineering Fellow  
+Cornell Tech AI Studio Fellow
+
+</td>
+
+<td width="50%">
+
+🛰️ **Current Research**  
+AI + satellite imagery  
+Geospatial machine learning  
+Urban land-cover analysis
+
+</td>
+</tr>
+</table>
+
+I'm a recent Computer Science graduate with hands-on experience in **software engineering, machine learning, data analytics, and research**.
+
+At the **BCC Geospatial Center**, I work with satellite imagery and machine learning to analyze urban land-cover patterns. My research involves Python, PyTorch, QGIS, remote sensing, image classification, model evaluation, and workflow automation.
+
+Previously, I completed the **Meta x MLH Production Engineering Fellowship**, where I gained experience with production systems, infrastructure, observability, and deployment workflows.
 
 ---
 
-In August 2026, I achieved the Data Fundamentals Certificate and Badge by IBMSkillsBuild. The link tot he badge is: https://www.credly.com/badges/b1162e4f-82e4-478d-8d49-4befa425809d. This certification taught data analytics concepts, methodologies and applications of data science, and the tools and programming languages used in the data ecosystem. I gained conceptual understanding of how to clean, refine, and visualize data using IBM Watson Studio. 
+## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="25%">
 
+### 💻 Languages
+
+- Python
+- C++
+- C#
+- Java
+- JavaScript
+- TypeScript
+- SQL
+
+</td>
+
+<td valign="top" width="25%">
+
+### 🤖 ML & Data
+
+- PyTorch
+- Keras
+- scikit-learn
+- Pandas
+- NumPy
+- EasyOCR
+
+</td>
+
+<td valign="top" width="25%">
+
+### 🌐 Development
+
+- React
+- Flask
+- FastAPI
+- Node.js
+- Bootstrap
+- REST APIs
+
+</td>
+
+<td valign="top" width="25%">
+
+### ⚙️ Tools
+
+- Git / GitHub
+- Docker
+- AWS
+- PostgreSQL
+- MySQL
+- SQLite
+- Firebase
+- Supabase
+- Postman
+- QGIS
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🛰️ Geospatial AI Research
+
+Applying machine learning and Earth observation imagery to urban land-cover classification.
+
+**Tech:**  
+Python · PyTorch · QGIS · GIS · Remote Sensing
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧠 Cognition
+
+Accessible training platform designed to help young adults develop workplace skills.
+
+**Tech:**  
+React · TypeScript · FastAPI · PostgreSQL · AWS
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⚙️ Production Engineering
+
+Production engineering work through the Meta x MLH Fellowship.
+
+**Tech:**  
+Flask · Docker · Nginx · Prometheus · Grafana
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Areas I'm Interested In
+
+| Area | What I Enjoy |
+|---|---|
+| 💻 **Software Engineering** | Building scalable backend and full-stack applications |
+| 🤖 **Machine Learning** | Applying ML and AI to real-world problems |
+| 📊 **Data Analytics** | Turning complex datasets into useful insights |
+| 🛰️ **Geospatial AI** | Combining satellite imagery, GIS, and machine learning |
+| 🏆 **Hackathons** | Building end-to-end products under tight timelines |
+| 🌱 **Community** | Mentoring peers and contributing to technical communities |
+
+---
+
+## 🏅 Certifications
+
+<table>
+<tr>
+<td>
+
+### IBM SkillsBuild — Data Fundamentals
+
+**Earned August 2026**
+
+Covered:
+
+- Data analytics methodologies
+- Data science applications
+- Data cleaning and refinement
+- Data visualization
+- Data ecosystem technologies
+- IBM Watson Studio
+
+[**View Verified Credential →**](https://www.credly.com/badges/b1162e4f-82e4-478d-8d49-4befa425809d)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=srewashimondal&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srewashimondal&layout=compact&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <b>Currently exploring entry-level Software Engineering, Machine Learning/AI, and Data Analytics opportunities.</b>
+</p>
+
+<p align="center">
+  🚀 Building • Learning • Researching • Creating
+</p>
