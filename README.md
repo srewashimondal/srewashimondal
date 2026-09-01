@@ -168,7 +168,10 @@ Previously, I completed the **Meta x MLH Production Engineering Fellowship**, wh
 </table>
 
 </div>
----
+
+<br>
+
+<hr>
 
 ## 🚀 Featured Work
 
